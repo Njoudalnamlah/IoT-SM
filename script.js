@@ -16,6 +16,7 @@ click_to_convert.addEventListener('click',function(){
  })
 
  if(speech == true){
+   recognition.lang='ar';
   recognition.start();
 }
 
