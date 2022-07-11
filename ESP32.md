@@ -2,7 +2,7 @@
 ## Install Serial Driver for ESP32
 
 ## Setting UP the Arduino IDE
-https://www.arduino.cc/en/donate/
+https://www.arduino.cc/en/software
 
 ## Second step Open The Arduino 
 1- Go To File 
